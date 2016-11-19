@@ -1,0 +1,6 @@
+---
+
+- name: install packages
+  apt:
+    name: "{{ item }}"
+  with_items: "{{ pi_bootstrap_packages }}"

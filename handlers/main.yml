@@ -1,0 +1,6 @@
+---
+
+- name: Restart pi-bootstrap-packages
+  service:
+    name: pi-bootstrap-packages
+    state: restarted

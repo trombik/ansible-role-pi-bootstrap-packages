@@ -1,0 +1,4 @@
+- hosts: localhost
+  roles:
+    - ansible-role-pi-bootstrap-packages
+  vars:

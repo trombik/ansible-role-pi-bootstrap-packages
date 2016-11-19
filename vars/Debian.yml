@@ -1,0 +1,6 @@
+---
+__pi_bootstrap_packages:
+  - git-core
+  - vim
+  - libi2c-dev
+  - ruby
