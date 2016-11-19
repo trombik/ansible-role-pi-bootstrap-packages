@@ -4,3 +4,4 @@ __pi_bootstrap_packages:
   - vim
   - libi2c-dev
   - ruby
+  - ruby-dev
