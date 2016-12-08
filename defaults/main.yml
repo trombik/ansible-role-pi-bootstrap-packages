@@ -1,2 +1,3 @@
 pi_bootstrap_packages: "{{ __pi_bootstrap_packages }}"
 pi_bootstrap_packages_gems: "{{ __pi_bootstrap_packages_gems }}"
+pi_bootstrap_packages_pips: "{{ __pi_bootstrap_packages_pips }}"
