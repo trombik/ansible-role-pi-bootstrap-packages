@@ -7,6 +7,7 @@ __pi_bootstrap_packages:
   - ruby-dev
   - libssl-dev
   - build-essential
+  - pip
 __pi_bootstrap_packages_gems:
   - pi_piper
 __pi_bootstrap_packages_pips:
