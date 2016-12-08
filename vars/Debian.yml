@@ -8,6 +8,8 @@ __pi_bootstrap_packages:
   - libssl-dev
   - build-essential
   - python-pip
+  - zsh
+  - rsync
 __pi_bootstrap_packages_gems:
   - pi_piper
 __pi_bootstrap_packages_pips:
