@@ -8,6 +8,8 @@ __pi_bootstrap_packages:
   - libssl-dev
   - build-essential
   - python-pip
+  - python-smbus
+  - i2c-tools
   - zsh
   - rsync
 __pi_bootstrap_packages_gems:
